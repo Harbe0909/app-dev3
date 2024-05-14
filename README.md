@@ -1,2 +1,5 @@
-# app-dev3
-My first respiratory 
+# My Favorite Series ranking from 1-5
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
